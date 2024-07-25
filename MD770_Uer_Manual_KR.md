@@ -36,9 +36,11 @@
 
 ![alt text](img/1.png)
 
+
 <div style="text-align: center; font-size: 18px; font-weight: bold;">
   <span style="margin: 0 5px; color: #000000; text-decoration: underline;">-2-</span>
 </div>
+
 
 키보드를 별도로 사용하려면 USB A to C 케이블을 양쪽 커넥터에 삽입하고 양쪽 커넥터 사이에 있는 USB C-C 코일 케이블을 제거합니다.
 
@@ -76,9 +78,11 @@
 - Dip Switch 3 ON: [좌측 Win] 와 [좌측 Alt] 키의 포지션 교체
 - Dip Switch 4 ON: [Capslock] 와 [Fn] 키의 포지션 교체\
 
+
 <div style="text-align: center; font-size: 18px; font-weight: bold;">
   <span style="margin: 0 5px; color: #000000; text-decoration: underline;">-3-</span>
 </div>
+
 
 ## 키보드 레이아웃 스위치:
 
